@@ -1,0 +1,35 @@
+_repo: The-Form-of-Perfect-Living-and-Other-Prose-Treatises_25856
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hodgson, Geraldine Emma
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '31623'
+    url: http://www.gutenberg.org/2009/agents/31623
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rolle, Richard, of Hampole
+    alias: Rolle de Hampole, Richard
+    deathdate: 1349
+    gutenberg_agent_id: '31618'
+    url: http://www.gutenberg.org/2009/agents/31618
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Rolle
+description: ''
+gutenberg_issued: '2008-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life'
+- !lcsh 'Rolle, Richard, of Hampole, 1290?-1349'
+- !lcc 'BX'
+title: The Form of Perfect Living and Other Prose Treatises
+url: http://www.gutenberg.org/ebooks/25856
